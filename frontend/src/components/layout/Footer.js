@@ -7,6 +7,9 @@ const Footer = () => {
                 <p className="text-center mt-1">
                     Shopping Cart - 2000-2021, All Rights Reserved
                 </p>
+                <p className="text-muted mt-1">
+                    built with MERN stack
+                </p>
             </footer>
         </Fragment>
     )
