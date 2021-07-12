@@ -2,7 +2,7 @@ const express = require('express');
 const path = require('path');
 const fileUpload = require('express-fileupload'); 
 const cookieParser = require('cookie-parser');
-const dotenv = require('dotenv');
+// const dotenv = require('dotenv');
 
 const errorMiddleware = require('./middlewares/errors');
 // Import all routes
